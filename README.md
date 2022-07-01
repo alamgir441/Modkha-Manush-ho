@@ -6,7 +6,7 @@
 
 ```
 
-🥀🤙20+BYPASS 🖕🔥
+🥀🤙20+Modkha-Manush-ho🖕🔥
 
 💁 pkg update
 
@@ -28,13 +28,13 @@
 
 💁 pip install bs4
 
-💁 rm -rf BYPASS_STORE
 
-💁 git clone https://github.com/MrK4US4R/BYPASS_STORE
 
-💁 cd BYPASS_STORE
 
-💁 python BYPASS_STORE.py
+
+
+
+
 
 ```
 
